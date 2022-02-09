@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+}
+
+#apps{
+    background-color: khaki;
+}
+
+#games{
+    background-color: khaki;
+}
+
+#bot{
+    background-color: khaki;
+}
+
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: mediumorchid;
+    margin: 8px auto;
+}
